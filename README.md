@@ -39,14 +39,6 @@ Turns graph structure into music. Node2Vec embeddings implemented from scratch (
 
 ---
 
-### 📊 GitHub Stats
-
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-megha-02&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iam-megha-02&hide_border=true)
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meghzpillai)
